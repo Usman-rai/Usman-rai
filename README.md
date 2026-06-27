@@ -1,73 +1,88 @@
 # Hi, I'm Usman 👋
 
-**n8n Specialist & AI Automation Developer** — I build conversational AI agents and workflow systems that save businesses real time and money.
+**AI Automation Developer** based in Pakistan.
+I build workflow systems that eliminate repetitive 
+business operations using n8n and modern AI APIs.
 
-I don't just connect apps. I build systems that think, decide, and act — agents with tools, not rigid scripts.
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat&logo=googlecalendar&logoColor=white)
 
-📍 Pakistan · Working remotely with clients globally · Open to first client projects
+---
+
+## 🔧 What I Build
+
+- **WhatsApp AI booking bots** for healthcare clinics
+- **AI lead generation pipelines** with automatic scoring
+- **CRM automation** with Airtable and Google Sheets
+- **Multi-step AI agents** with memory and tool use
+- **Automated outreach systems** with personalized emails
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎯 [LeadHunter AI](https://github.com/Usman-rai/leadhunter-ai)
-**An AI agent that finds and qualifies business leads in 60 seconds.**
+### 🦷 WhatsApp Dental Booking Bot
+> 24/7 AI receptionist that handles patient inquiries,
+> checks calendar availability, and books appointments
+> automatically — zero human involvement required.
 
-Type "find 10 dentists in Lahore" in chat → the agent scrapes Google Maps, visits each business website, analyzes their digital presence (SSL, social media, reviews), scores each business 0-100 as a marketing opportunity, and saves a prioritized list to Google Sheets.
+**Stack:** n8n • LangChain • Twilio • Google Calendar • Airtable • Groq
 
-What used to take agencies 4+ hours of manual research now takes one chat message.
-
-`n8n` · `Groq AI (Llama 3.3 70B)` · `Apify` · `Google Sheets` · `AI Agent with Tools`
-
----
-
-### ⚡ [Inbound Lead Qualifier](https://github.com/Usman-rai/inbound-lead-qualifier-n8n)
-**Automatically scores and routes incoming leads using AI.**
-
-Contact form submission → AI scores fit, intent, and urgency → hot leads pinged to Slack within 30 seconds → personalized auto-reply sent via Gmail → everything logged to Airtable.
-
-Built for marketing agencies that bleed money when hot leads sit in inboxes.
-
-`n8n` · `Groq` · `Airtable` · `Slack` · `Gmail`
+**[▶ Watch Demo](https://loom.com/share/0128215c3860448a82d3680a6d731f64)**
 
 ---
 
-## 🧰 Tech Stack
+### 🔍 AI Lead Hunter
+> Scrapes Google Maps, analyzes competitor websites,
+> scores each lead 0-100 by opportunity, and saves
+> qualified prospects to Google Sheets automatically.
 
-**Automation:** n8n · REST APIs · Webhooks · Python (for custom integrations).Claude
-
-**AI:** OpenAI · Groq (Llama) · Anthropic Claude · ElevenLabs
-
-**Data & Tools:** Airtable · Notion · Google Sheets · Apify
-
-**Communication:** Slack · Gmail · WhatsApp (Twilio)
+**Stack:** n8n • Apify • OpenRouter • Google Sheets
 
 ---
 
-## 🔨 Currently Building
+### 📧 B2B Cold Email Generator
+> Finds target businesses, reads their websites,
+> identifies specific pain points, and writes
+> hyper-personalized cold emails automatically.
 
-- **Cold email outreach system** — AI-personalized outbound emails that integrate with LeadHunter AI for a full lead-to-conversation pipeline
-- **WhatsApp AI assistant** — conversational business agents for local clients
-- **Deeper Python & ML fundamentals** — foundation for harder problems
-
----
-
-## 💼 Open To
-
-- Freelance automation projects (n8n, AI agents, workflow systems)
-- Building custom AI agents for marketing agencies, B2B SaaS, and service businesses
-- Long-term collaborations where I can own and improve a system over time
-
-Whether you need a small "fix this one thing" job or a full multi-system automation — I'm interested. Send me a message describing your problem.
+**Stack:** n8n • Claude API • Apify • Gmail API
 
 ---
 
-## 📫 Find Me
+### 📊 Inbound Lead Qualifier
+> Scores inbound leads using AI, routes hot leads
+> to Slack instantly, and sends personalized
+> auto-replies — fully automated.
 
-- 💼 **LinkedIn:** [in/usman-rai](https://linkedin.com/in/usman-rai)
-- 📧 **Email:** raiusmanr517@gmail.com
-- 🌍 **Based in:** Pakistan (timezone friendly with EU/MENA, async-friendly with US)
+**Stack:** n8n • Groq • Airtable • Slack • Gmail
 
 ---
 
-⭐ If any project here saves you time, a star helps more than you think.
+## 🛠 Tech Stack
+
+**Automation**
+n8n • LangChain • Webhook Architecture
+
+**AI Models**
+Claude API • OpenAI • Groq • Gemini • OpenRouter
+
+**Databases & CRM**
+Airtable • Google Sheets • HubSpot concepts
+
+**Communication**
+Twilio • WhatsApp Business API • Gmail API
+
+**Lead Generation**
+Apify • Google Maps API
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-smart.aisolutions.services@gmail.com-red?style=flat&logo=gmail)](mailto:smart.aisolutions.services@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-brightgreen?style=flat&logo=upwork)](https://upwork.com/freelancers/usmanf13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-usman--rai-blue?style=flat&logo=linkedin)](https://linkedin.com/in/usman-rai)
