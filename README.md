@@ -1,78 +1,80 @@
 # Hi, I'm Usman 👋
 
 **AI Automation Developer** based in Pakistan.
-I build intelligent workflow systems that eliminate 
-repetitive business operations using n8n, Claude AI,
-and modern automation infrastructure.
+I build voice agents, WhatsApp bots, and n8n workflows
+that handle real business processes automatically —
+no staff needed after hours.
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![VAPI](https://img.shields.io/badge/VAPI-2dd4bf?style=flat&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-191919?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6B00?style=flat&logoColor=white)
 ![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat&logo=googlecalendar&logoColor=white)
 
 ---
 
 ## 🤖 What I Build
 
-- **WhatsApp AI booking bots** for healthcare clinics
-- **Claude-powered AI agents** with memory and tool use
-- **GoHighLevel automation** and CRM workflow builds
-- **AI lead generation pipelines** with automatic scoring
-- **MCP integrations** connecting Claude to business tools
-- **Multi-agent systems** for sales and operations
-- **Automated outreach** with hyper-personalized emails
+- **AI voice receptionists** that answer calls, check calendars, and book appointments
+- **WhatsApp AI booking bots** for healthcare clinics and appointment-based businesses
+- **n8n automation workflows** connecting voice, messaging, calendars, and databases
+- **AI lead generation pipelines** with automatic scoring and outreach
+- **Subcontractor dispatch systems** with SMS routing and first-reply logic
+- **Inbound lead qualifiers** with AI scoring, Slack routing, and auto-replies
 
 ---
 
 ## 🔥 Currently Working With
 
-> These are the tools clients are asking for right now
-
-| Trending Tool | What I Use It For |
-|--------------|-------------------|
-| **Claude API + MCP** | AI agents that connect to real business tools |
-| **GoHighLevel** | CRM automation and client pipeline management |
-| **n8n** | Core workflow automation platform |
-| **Vapi / Retell** | Voice AI agents for phone automation |
+| Tool | What I Use It For |
+|------|-------------------|
+| **VAPI** | Voice AI agents that answer real phone calls |
+| **ElevenLabs** | Human-sounding voices for voice agents |
+| **n8n** | Core automation platform for all workflows |
+| **Twilio** | Phone calls, SMS dispatch, WhatsApp |
 | **Airtable** | Database layer for all automation systems |
 | **WhatsApp Business API** | 24/7 patient and customer communication |
+| **Claude API** | AI reasoning inside automation workflows |
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🎙️ AI Voice Appointment Booking Agent
+> A 24/7 AI voice receptionist named Sarah. Answers
+> inbound calls, understands natural speech, checks
+> a live Google Calendar for real open slots, books
+> the appointment, and saves everything to a database.
+> No human needed after hours.
+
+**Stack:** VAPI • ElevenLabs • n8n • Google Calendar • Airtable • Twilio
+
+**[🌐 Try it live](https://bright-smile-melbourne.base44.app)**
+**[▶ Watch the demo](https://www.loom.com/share/4108e38636b34e0a9d1ed880b15c3086)**
+**[📂 View the repo](https://github.com/Usman-rai/voice-appointment-booking-agent)**
+
+---
+
 ### 🦷 WhatsApp Dental Booking Bot
-> 24/7 AI receptionist that handles patient inquiries,
-> checks calendar availability, and books appointments
-> automatically — zero human involvement required.
-> Built for Australian dental clinics.
+> 24/7 AI receptionist on WhatsApp. Handles patient
+> inquiries, checks calendar availability, and books
+> appointments in 3 messages — zero human involvement.
+> Built for appointment-based businesses.
 
-**Stack:** n8n • LangChain • Claude API • Twilio • 
-Google Calendar • Airtable • Groq
+**Stack:** n8n • Twilio • Google Calendar • Airtable • OpenRouter • Gemini
 
-**[▶ Watch Demo](https://loom.com/share/0128215c3860448a82d3680a6d731f64)**
+**[▶ Watch the demo](https://www.loom.com/share/0128215c3860448a82d3680a6d731f64)**
 
 ---
 
 ### 🔍 AI Lead Hunter
 > Scrapes Google Maps, analyzes business websites,
-> scores each lead 0-100 by opportunity, and saves
+> scores each lead 0–100 by opportunity, and saves
 > qualified prospects to Google Sheets automatically.
 
-**Stack:** n8n • Apify • Claude API • Google Sheets
-
----
-
-### 📧 B2B Cold Email Generator
-> Finds target businesses, reads their websites,
-> identifies specific pain points, and writes
-> hyper-personalized cold emails automatically.
-> Creates Gmail drafts — never auto-sends.
-
-**Stack:** n8n • Claude API • Apify • Gmail API
+**Stack:** n8n • Apify • OpenRouter • Google Sheets
 
 ---
 
@@ -87,44 +89,42 @@ Google Calendar • Airtable • Groq
 
 ## 🛠 Full Tech Stack
 
+**Voice AI**
+VAPI • ElevenLabs • Twilio Voice • Deepgram
+
 **Automation Platforms**
-n8n • GoHighLevel • Zapier concepts • Make concepts
+n8n • Zapier concepts • Make concepts
 
 **AI & Agents**
-Claude API • MCP Protocol • OpenAI • Groq • 
-Gemini • OpenRouter • LangChain
-
-**Voice AI**
-Vapi • Retell AI
-
-**CRM & Databases**
-GoHighLevel CRM • Airtable • Google Sheets • 
-HubSpot concepts • Notion
+Claude API • OpenRouter • Groq • Gemini • OpenAI • LangChain
 
 **Communication**
 Twilio • WhatsApp Business API • Gmail API • Slack
 
+**Databases**
+Airtable • Google Sheets • Google Calendar
+
 **Lead Generation**
-Apify • Google Maps API • Apollo concepts
+Apify • Google Maps API
 
 ---
 
 ## 💡 What Makes My Builds Different
 
-**→ Claude MCP Integration**
-I connect Claude AI directly to business tools using
-Model Context Protocol — not just chatbots, but AI
-that actually reads your CRM, calendar, and database.
+**→ Voice agents that actually work on a real phone call**
+Not just chatbots. Sarah answers inbound calls,
+understands natural speech like "next Tuesday at 2,"
+checks the live calendar, and books the slot.
+Try it yourself — no signup needed.
 
-**→ Production-Ready Systems**
-Every build ships with error handling, WhatsApp alerts
-on failures, Loom walkthrough video, and full
-documentation. Not demos. Working systems.
+**→ Production-ready systems**
+Every build ships with error handling, confirmation
+emails, SMS notifications, and full documentation.
+Not demos. Working systems.
 
-**→ 3-Day Delivery**
-From payment to live system in 3 business days.
-Healthcare clients get a 60-day guarantee —
-10 recovered bookings or full refund.
+**→ Honest delivery**
+I only claim what actually works. Every project
+listed here is live and testable.
 
 ---
 
