@@ -65,7 +65,7 @@ no staff needed after hours.
 
 **Stack:** n8n • Twilio • Google Calendar • Airtable • OpenRouter • Gemini
 
-**[▶ Watch the demo](https://www.loom.com/share/0128215c3860448a82d3680a6d731f64)**
+**[▶ Watch the demo](https://www.loom.com/share/20ffb09bd48d4d7d8533fd605d8c281d)**
 
 ---
 
